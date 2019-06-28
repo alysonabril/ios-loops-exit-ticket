@@ -26,6 +26,7 @@ for number in 4..<8{
 
 print(myNum)
 ```
+23
 
 ***
 ## Question 2
@@ -39,7 +40,7 @@ for i in 1..<100 {
 }
 ```
 
-B)
+B)*****************************
 ```swift
 for j in 1...100 {
     print(j)
@@ -72,13 +73,13 @@ for _ in 1...10{
     }
 }
 ```
-
+100 times
 ***
 ## Question 4
 
 Which of the loops below will run forever? Select all that apply.
 
-a)
+a)***************
 ```swift
 var q = 0
 
@@ -108,7 +109,7 @@ while 3 != 3 {
 }
 ```
 
-d)
+d) ****************
 ```swift
 var t = 0
 
